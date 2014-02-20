@@ -1,0 +1,12 @@
+{
+  "name": "yields-visibility",
+  "description": "Sane page visibility API",
+  "version": "0.0.1",
+  "keywords": [
+    "visiblity",
+    "api",
+    "page visibility"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
